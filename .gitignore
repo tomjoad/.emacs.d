@@ -1,0 +1,6 @@
+private.el
+*.elc
+*~
+auto-save-list
+tramp
+session.*
